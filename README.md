@@ -4,7 +4,7 @@ Hi 👋 My name is Sebas Arriaza
 I'm a frontend developer
 ------------------------
 
-* 🌍  I'm from in Spain
+* 🌍  I'm based in Spain 
 * 🖥️  See my portfolio at [sebasarriaza.com](http://sebasarriaza.com)
 * ✉️  You can contact me at [sebasarriaza@icloud.com](mailto:sebasarriaza@icloud.com)
 * 🧠  I'm learning web3
