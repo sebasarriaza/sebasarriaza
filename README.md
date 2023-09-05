@@ -1,7 +1,7 @@
 Hi 👋 My name is Sebas Arriaza
 ==============================
 
-I'm a frontend developer
+I'm a Fullstack Web3 Developer
 ------------------------
 
 * 🌍  I'm based in Spain 
