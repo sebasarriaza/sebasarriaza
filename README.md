@@ -1,13 +1,12 @@
 Hi 👋 My name is Sebas Arriaza
 ==============================
 
-I'm a Fullstack Web3 Developer
+I'm a AI Fullstack Developer
 ------------------------
 
 * 🌍  I'm based in Spain 
 * 🖥️  See my portfolio at [sebasarriaza.com](http://sebasarriaza.com)
 * ✉️  You can contact me at [contact@sebasarriaza.com](mailto:contact@sebasarriaza.com)
-* 🧠  I'm learning web3
 
 ### Skills
 
