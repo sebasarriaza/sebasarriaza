@@ -17,7 +17,7 @@
   <img src="https://cdn.simpleicons.org/redis/DC382D" width="36" height="36" alt="Redis" />
   <img src="https://cdn.simpleicons.org/airtable/18BFFF" width="36" height="36" alt="Airtable" />
   <img src="https://cdn.simpleicons.org/notion/FFFFFF" width="36" height="36" alt="Notion" style="background:#000;border-radius:4px" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="36" height="36" alt="OpenAI" />
   <img src="https://www.elevenlabs.io/favicon.ico" width="36" height="36" alt="ElevenLabs" />
   <img src="https://cdn.simpleicons.org/meta/0866FF" width="36" height="36" alt="Meta" />
   <br><br>
