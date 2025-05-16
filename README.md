@@ -33,11 +33,13 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma" />
+  <br><br>
+  <!-- Infraestructura -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="36" height="36" alt="Vercel" style="background:#000;border-radius:4px" />
-  <img src="https://www.cursor.so/favicon.ico" width="36" height="36" alt="Cursor" />
   <img src="https://railway.app/brand/logo-light.svg" width="36" height="36" alt="Railway" />
+  <img src="https://www.cursor.so/favicon.ico" width="36" height="36" alt="Cursor" />
   <br><br>
   <!-- Creatividad & Multimedia -->
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="36" height="36" alt="Photoshop" />
